@@ -1,2 +1,2 @@
-#inlucde <iostream>
+#include <iostream>
 
